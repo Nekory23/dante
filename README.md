@@ -19,7 +19,7 @@ See the subject for further details !
 
 Grade : C | Mark : 6.6
 
-Score : 40%%
+Score : 40%
   - Basics : 100% --- 2/2
   - Basic Generation : 100% --- 3/3
   - Advanced generation : 0% --- 0/2
