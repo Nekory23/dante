@@ -1,6 +1,5 @@
 # dante
-
-{EPITECH} | First year | Elementary programming in C project
+# {EPITECH} | First year | Elementary programming in C project
 
 Dante must journey through Hell, a thoroughly maze-like place. Here we’re going to generate mazes, find
 the exit path and try to do this as fast as possible.
@@ -15,18 +14,20 @@ See the subject for further details !
 
 ========================
 
-2nd semester Elementary programming in C (part I) unit
+## 2nd semester Elementary programming in C (part I) unit
 
 Grade : C | Mark : 6.6
 
-Score : 40%
-  - Basics : 100% --- 2/2
-  - Basic Generation : 100% --- 3/3
-  - Advanced generation : 0% --- 0/2
-  - Medium size generation : 50% --- 1/2
-  - Big size generation : 40% --- 2/5
-  - Solving : 0% --- 0/6
+| Category               | Percentage | Tests    | Crash ? |
+|------------------------|------------|----------|---------|
+| Basic                  | 100%       | 2/2      | x       |
+| Basic generation       | 100%       | 3/3      | x       |
+| Advanced generation    | 0%         | 0/2      | x       |
+| Medium size generation | 50%        | 1/2      | x       |
+| Big size generation    | 40%        | 2/5      | x       |
+| Solving                | 0%         | 0/6      | x       |
+| **End scores**         | **40%**    | **8/20** | **No**  |
   
-Made with Quentin TREHEUX (LuciferBahamut)
+Made with Quentin TREHEUX ([LuciferBahamut](https://github.com/LuciferBahamut))
 
 Beware of -42 epitech students !
